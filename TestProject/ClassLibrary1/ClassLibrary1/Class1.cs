@@ -10,7 +10,7 @@ namespace AgethingyTestLib
         public void DisplayMessage()
         {
             Console.WriteLine("Test String");
-            Console.WriteLine("Resolve bug");
+            Console.WriteLine("Resolve bug1");
         }
     }
 }
