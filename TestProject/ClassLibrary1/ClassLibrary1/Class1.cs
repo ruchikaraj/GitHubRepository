@@ -11,6 +11,7 @@ namespace AgethingyTestLib
         {
             Console.WriteLine("Test String");
             Console.WriteLine("Resolve bug1");
+            Console.WriteLine("Resolve bug2");
         }
     }
 }
