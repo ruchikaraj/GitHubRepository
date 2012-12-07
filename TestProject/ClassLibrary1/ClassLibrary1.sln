@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{C7B7878D-89EF-4840-945A-729B122978B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgeThingyTestLib", "ClassLibrary1\AgeThingyTestLib.csproj", "{C7B7878D-89EF-4840-945A-729B122978B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
